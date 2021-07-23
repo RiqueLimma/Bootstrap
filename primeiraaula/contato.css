@@ -1,0 +1,13 @@
+body {
+
+    height: 300%;
+    background-image: url(img/NAa.jpg) ;
+    background-size: 100% 100%;
+    background-repeat:initial
+
+}
+
+.tm-sociall {
+    width: 50px;
+    height: 50px;
+}

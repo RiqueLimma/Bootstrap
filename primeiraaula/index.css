@@ -1,0 +1,25 @@
+body{
+
+    height: 100vh;
+    background-image: url(img/paz.jpg);
+    background-size: 100% 100%;
+    
+}
+.tm-social {
+    width: 30px;
+    height: 30px;
+}
+
+.navbar-brand{
+
+    color: aliceblue;
+    font-size: 50%;
+    font-family: 'Dancing Script', cursive;
+}
+
+.ilusao{
+
+    font-family: 'Dancing Script', cursive;
+    color: aliceblue;
+}
+
